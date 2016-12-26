@@ -1,0 +1,11 @@
+﻿abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .;	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+abcdefghijklmnopqrstuvwxyz .,	zyxwvutsrqponmlkjihgfdcba
+,

@@ -1,0 +1,6 @@
+﻿WELCOME TO TYPING TUTOR
+1. Typing Tips
+2. Typing Practice
+3. Typing Test 
+4. Exit
+
